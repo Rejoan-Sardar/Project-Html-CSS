@@ -1,6 +1,6 @@
 # HTML CSS  PRACTICE PROJECT
 
-### Project that we are going to build 
+### Project that I will build 
 
 - Project 1 - Tribute Website
 - Project 2 - Job Application
